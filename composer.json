@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Aoe_Scheduler",
+    "name": "OpenMageModuleFostering\/Aoe_Scheduler",
     "type": "magento-module",
     "license": "GPL-v3.0",
     "homepage": "",
-    "description": "Scheduler / Cron Management",
+    "description": "Scheduler \/ Cron Management",
     "authors": [
-    {
-        "name": "Fabrizio Branca",
-        "email": "magento@fabrizio-branca.de"
-    }
-],
+        {
+            "name": "Fabrizio Branca",
+            "email": "magento@fabrizio-branca.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
